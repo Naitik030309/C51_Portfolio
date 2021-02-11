@@ -1,0 +1,45 @@
+Decimal number System (0-9)
+
+    56 = 5*10^1 + 6*10^0
+    1345 = 1*10^3 + 3*10^2 + 4*10^1 + 5*10^0
+
+Binary Number System (0,1)
+
+    101 = 1*2^2 + 0*2^1 + 1*2^0 = 4+0+1 = 5
+
+Hexadecimal Number System (0-15)
+    hex - 6, decimal - 10 = 16
+
+    0
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    A - 10
+    B - 11
+    C - 12
+    D - 13
+    E - 14
+    F - 15
+
+    AD = A*16^1 + D*16^0
+        160 + 13 = 173
+    FF = F*16^1 + F*16^0
+        240 + 15 = 255
+    255 = 255/16 = Quotient - 15
+                   Remainder - 15
+
+    128 = 128/16 = 
+
+    Colors (0-255) in decimal number system
+    Red - 255
+    Blue - 255
+    Green - 255
+
+    black -> #000000
+    White -> #FFFFFF
